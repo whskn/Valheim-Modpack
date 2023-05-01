@@ -9,7 +9,7 @@ https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/
 2. https://www.nexusmods.com/valheim/mods/1042
 3. https://www.nexusmods.com/valheim/mods/348
 4. https://www.nexusmods.com/valheim/mods/449
-5. https://www.nexusmods.com/valheim/mods/433
+5. https://www.nexusmods.com/valheim/mods/433 ~
 6. https://www.nexusmods.com/valheim/mods/159
 7. https://www.nexusmods.com/valheim/mods/441
 8. https://www.nexusmods.com/valheim/mods/985
