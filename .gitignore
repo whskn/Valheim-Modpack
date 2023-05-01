@@ -1,0 +1,11 @@
+*
+!*/
+!BepinEx
+!doorstop_libs
+!unstripped_corlib
+!changelog.txt
+!doorstop_config.ini
+!start_game_bepinex.sh
+!start_server_bepinex.sh
+!winhttp.dll
+!.gitignore
