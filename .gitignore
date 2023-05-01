@@ -1,8 +1,8 @@
 *
-!./BepInEx/
+!**/BepInEx
 !readme.md
-!./doorstop_libs/
-!./unstripped_corlib/
+!**/doorstop_libs
+!**/unstripped_corlib
 !changelog.txt
 !doorstop_config.ini
 !start_game_bepinex.sh
