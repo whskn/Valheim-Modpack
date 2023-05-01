@@ -1,7 +1,7 @@
 *
 !*/
 !BepInEx
-!doorstop_libs
+!DOORSTOP_LIBS
 !unstripped_corlib
 !changelog.txt
 !doorstop_config.ini
